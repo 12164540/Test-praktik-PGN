@@ -1,0 +1,7 @@
+echo "# Test-praktik-PGN" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/12164540/Test-praktik-PGN.git
+git push -u origin main
